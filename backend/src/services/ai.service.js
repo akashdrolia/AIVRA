@@ -38,6 +38,7 @@ Respond in:
 
   if (!resp.ok) {
     const errText = await resp.text();
+    console.error("Ollama returned non-ok:", resp.status, errText);
     throw new Error(`Ollama error ${resp.status}: ${errText}`);
   }
 
