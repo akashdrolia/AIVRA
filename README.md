@@ -4,7 +4,7 @@
 </div>
 <div align="center">
 AI Virtual Resource Assistant
-PERN Stack • Ollama LLM • Material-UI • JWT Auth
+Node JS • React JS • PostgreSQL • JWT Auth
 </div>
 
 AIVRA is a full-stack, privacy-centric generative AI platform that enables users to interact with Large Language Models (LLMs) locally. By leveraging the PERN stack and Ollama, AIVRA provides a seamless, ChatGPT-like experience without relying on expensive, third-party cloud APIs.
